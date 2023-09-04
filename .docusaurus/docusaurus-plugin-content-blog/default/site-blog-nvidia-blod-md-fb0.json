@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/first-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/nvidia-blod.md",
+  "source": "@site/blog/nvidia-blod.md",
+  "title": "Harnessing the Power of Clusters",
+  "description": "Introduction:",
+  "date": "2023-09-04T12:50:48.000Z",
+  "formattedDate": "September 4, 2023",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 2.16,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Mir",
+      "title": "Supercomputing Center, Ecole Centrale Nantes",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "Harnessing the Power of Clusters",
+    "authors": {
+      "name": "Mir",
+      "title": "Supercomputing Center, Ecole Centrale Nantes",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    },
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "How Supercomputers expedite AI research?",
+    "permalink": "/blog/mdx-blog-post"
+  },
+  "nextItem": {
+    "title": "Parallel Programming CUDA(Python/C++)",
+    "permalink": "/blog/long-blog-post"
+  }
+}

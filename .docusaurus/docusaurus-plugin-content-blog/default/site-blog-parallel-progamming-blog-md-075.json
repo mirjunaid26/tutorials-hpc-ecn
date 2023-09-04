@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/long-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/parallel-progamming-blog.md",
+  "source": "@site/blog/parallel-progamming-blog.md",
+  "title": "Parallel Programming CUDA(Python/C++)",
+  "description": "This is the summary of a very long blog post,",
+  "date": "2023-09-04T12:50:48.000Z",
+  "formattedDate": "September 4, 2023",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 2.05,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Endilie Yacop Sucipto",
+      "title": "Maintainer of Docusaurus",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "endi"
+    }
+  ],
+  "frontMatter": {
+    "slug": "long-blog-post",
+    "title": "Parallel Programming CUDA(Python/C++)",
+    "authors": "endi",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Harnessing the Power of Clusters",
+    "permalink": "/blog/first-blog-post"
+  },
+  "nextItem": {
+    "title": "High Performance Computing",
+    "permalink": "/blog/welcome"
+  }
+}

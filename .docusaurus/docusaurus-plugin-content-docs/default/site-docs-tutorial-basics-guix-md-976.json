@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/guix",
+  "id": "tutorial-basics/guix",
+  "title": "GUIX",
+  "description": "Conda Basics",
+  "source": "@site/docs/tutorial-basics/guix.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/guix",
+  "permalink": "/docs/tutorial-basics/guix",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/guix.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to SLURM",
+    "permalink": "/docs/tutorial-basics/slurm"
+  },
+  "next": {
+    "title": "Apptainers",
+    "permalink": "/docs/tutorial-basics/apptainers"
+  }
+}

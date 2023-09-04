@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/linux-commands",
+  "id": "tutorial-basics/linux-commands",
+  "title": "Introduction to Linux in High Performance Computing",
+  "description": "Table of Contents",
+  "source": "@site/docs/tutorial-basics/linux-commands.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/linux-commands",
+  "permalink": "/docs/tutorial-basics/linux-commands",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/linux-commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is High-Performance Computing (HPC)s",
+    "permalink": "/docs/tutorial-basics/intro-hpc"
+  },
+  "next": {
+    "title": "Secure Shell (SSH)",
+    "permalink": "/docs/tutorial-basics/ssh"
+  }
+}

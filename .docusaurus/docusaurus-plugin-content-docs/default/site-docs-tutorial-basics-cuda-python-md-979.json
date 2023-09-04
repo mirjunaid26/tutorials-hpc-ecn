@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/cuda-python",
+  "id": "tutorial-basics/cuda-python",
+  "title": "CUDA Python/C++",
+  "description": "Docusaurus Plushie Docusaurus Plushie",
+  "source": "@site/docs/tutorial-basics/cuda-python.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/cuda-python",
+  "permalink": "/docs/tutorial-basics/cuda-python",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/cuda-python.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apptainers",
+    "permalink": "/docs/tutorial-basics/apptainers"
+  },
+  "next": {
+    "title": "JupyterLab",
+    "permalink": "/docs/tutorial-basics/markdown-features"
+  }
+}

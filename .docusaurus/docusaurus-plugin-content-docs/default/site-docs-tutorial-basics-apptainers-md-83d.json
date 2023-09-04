@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/apptainers",
+  "id": "tutorial-basics/apptainers",
+  "title": "Apptainers",
+  "description": "Docusaurus Plushie",
+  "source": "@site/docs/tutorial-basics/apptainers.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/apptainers",
+  "permalink": "/docs/tutorial-basics/apptainers",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/apptainers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GUIX",
+    "permalink": "/docs/tutorial-basics/guix"
+  },
+  "next": {
+    "title": "CUDA Python/C++",
+    "permalink": "/docs/tutorial-basics/cuda-python"
+  }
+}

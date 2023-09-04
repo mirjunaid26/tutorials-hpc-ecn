@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/intro-hpc",
+  "id": "tutorial-basics/intro-hpc",
+  "title": "What is High-Performance Computing (HPC)s",
+  "description": "HPC is technology that uses clusters of powerful processors, working in parallel, to process massive multi-dimensional datasets (big data) and solve complex problems at extremely high speeds. HPC systems typically perform at speeds more than one million times faster than the fastest commodity desktop, laptop or server systems.",
+  "source": "@site/docs/tutorial-basics/intro-hpc.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/intro-hpc",
+  "permalink": "/docs/tutorial-basics/intro-hpc",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/intro-hpc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Introduction to Linux in High Performance Computing",
+    "permalink": "/docs/tutorial-basics/linux-commands"
+  }
+}

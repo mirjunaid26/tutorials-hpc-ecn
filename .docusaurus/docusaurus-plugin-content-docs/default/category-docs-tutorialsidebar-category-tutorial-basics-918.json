@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "Getting started with HPC.",
+  "slug": "/category/tutorial---basics",
+  "permalink": "/docs/category/tutorial---basics",
+  "navigation": {
+    "previous": {
+      "title": "High-Performance Computing Workshop",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "What is High-Performance Computing (HPC)s",
+      "permalink": "/docs/tutorial-basics/intro-hpc"
+    }
+  }
+}

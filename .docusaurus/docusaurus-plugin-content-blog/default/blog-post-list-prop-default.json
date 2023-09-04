@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "How Supercomputers expedite AI research?",
+      "permalink": "/blog/mdx-blog-post"
+    },
+    {
+      "title": "Harnessing the Power of Clusters",
+      "permalink": "/blog/first-blog-post"
+    },
+    {
+      "title": "Parallel Programming CUDA(Python/C++)",
+      "permalink": "/blog/long-blog-post"
+    },
+    {
+      "title": "High Performance Computing",
+      "permalink": "/blog/welcome"
+    }
+  ]
+}
